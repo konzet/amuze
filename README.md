@@ -19,3 +19,8 @@ To use, add `amuze` to the list of theme in your `.zshrc` file:
 ```zsh
 ZSH_THEME=(amuze)
 ```
+### screenshoot
+with clock 
+![ss](./with-clock.jpg)
+without clock
+![ss](./without-clock.jpg
