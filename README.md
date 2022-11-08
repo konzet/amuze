@@ -2,7 +2,7 @@
 amuse theme without clock
 
 ## Installation
-1. Intall the following:
+1. Install the following:
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 2. install this theme
 ```
