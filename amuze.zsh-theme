@@ -10,9 +10,9 @@ ZSH_THEME_GIT_PROMPT_CLEAN=""
 ZSH_THEME_RUBY_PROMPT_PREFIX="%{$fg_bold[red]%}‹"
 ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
 
-#if u want back clock, add this in prompt
-#in $(git_prompt_info) 
+#if u want clock back, add this in prompt 
 #⌚ %{$fg_bold[yellow]%}%*%{$reset_color%}
+#in $(git_prompt_info)
 
 PROMPT='
 %{$fg_bold[green]%}%~%{$reset_color%}$(git_prompt_info)
