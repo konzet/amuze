@@ -26,7 +26,7 @@ with this
 ```
 PROMPT='
 %{$fg_bold[green]%}%~%{$reset_color%}$(git_prompt_info)⌚ %{$fg_bold[yellow]%}%*%{$reset_color%}
-$'
+$ '
 ```
 
 ### screenshoots    
