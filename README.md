@@ -19,7 +19,7 @@ To use, add `amuze` to the list of theme in your `.zshrc` file:
 ```zsh
 ZSH_THEME=(amuze)
 ```
-### screenshoot
+### screenshoots    
 with clock 
 ![ss](./with-clock.jpg)
 without clock
