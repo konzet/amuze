@@ -18,6 +18,7 @@ mv ~/amuze/amuze.zsh-theme ~/.oh-my-zsh/themes
 ```
 ZSH_THEME=(amuze)
 ```
+5. reload your terminal
 ### screenshoots    
 with clock 
 ![ss](./with-clock.jpg)
