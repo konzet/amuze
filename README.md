@@ -21,7 +21,7 @@ ZSH_THEME=(amuze)
 5. Reload your terminal
 ### configuration
 if you want back clock
-replace PROMPT in 'amuze-zsh.theme' file
+replace PROMPT in `amuze-zsh.theme` file
 with this
 ```
 PROMPT='
