@@ -11,12 +11,11 @@ git clone https://github.com/konzet/amuze/
 ```
 3. move amuze zsh theme to directory `oh-my-zsh/themes`
 ```
-cd ~/amuze
-mv ./amuze.zsh-theme ~/.oh-my-zsh/themes
+mv ~/amuze/amuze.zsh-theme ~/.oh-my-zsh/themes
 ```
 4. To use, add `amuze` to the list of theme in your `.zshrc` file:
 
-```zsh
+```
 ZSH_THEME=(amuze)
 ```
 ### screenshoots    
