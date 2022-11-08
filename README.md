@@ -1,5 +1,5 @@
 # AMUZE
-amuse theme without clock
+Amuse theme without clock
 
 ## Installation
 1. Install the following:
