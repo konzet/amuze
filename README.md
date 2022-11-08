@@ -9,7 +9,7 @@ amuse theme without clock
 cd 
 git clone https://github.com/konzet/amuze/
 ```
-3. Move amuze zsh theme to directory `oh-my-zsh/themes`
+3. Move `amuze-zsh.theme` to directory `oh-my-zsh/themes`
 ```
 mv ~/amuze/amuze.zsh-theme ~/.oh-my-zsh/themes
 ```
