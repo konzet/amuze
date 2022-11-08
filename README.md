@@ -23,4 +23,4 @@ ZSH_THEME=(amuze)
 with clock 
 ![ss](./with-clock.jpg)
 without clock
-![ss](./without-clock.jpg
+![ss](./without-clock.jpg)
