@@ -22,7 +22,7 @@ ZSH_THEME=(amuze)
 ### configuration
 if you want back clock
 replace PROMPT in `amuze-zsh.theme` file
-with this
+with this:
 ```
 PROMPT='
 %{$fg_bold[green]%}%~%{$reset_color%}$(git_prompt_info)⌚ %{$fg_bold[yellow]%}%*%{$reset_color%}
