@@ -1,5 +1,5 @@
 # AMUZE
-Amuse theme without clock
+Amuse zsh theme without clock
 
 ## Installation
 1. Install the following:
