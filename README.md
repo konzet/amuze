@@ -31,6 +31,6 @@ $ '
 
 ### screenshoots    
 With clock 
-![ss](./with-clock.jpg)
+![s1](./with-clock.jpg)
 Without clock
-![ss](./without-clock.jpg)
+![s2](./without-clock.jpg)
